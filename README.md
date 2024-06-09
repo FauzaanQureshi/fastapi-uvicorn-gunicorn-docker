@@ -1,7 +1,11 @@
+* `Added python3.10-alpine Dockerfile.`
+* `Added FastAPI to be installed.`
+
 [![Test](https://github.com/tiangolo/uvicorn-gunicorn-docker/actions/workflows/test.yml/badge.svg)](https://github.com/tiangolo/uvicorn-gunicorn-docker/actions/workflows/test.yml) [![Deploy](https://github.com/tiangolo/uvicorn-gunicorn-docker/workflows/Deploy/badge.svg)](https://github.com/tiangolo/uvicorn-gunicorn-docker/actions?query=workflow%3ADeploy)
 
 ## Supported tags and respective `Dockerfile` links
 
+* [`python3.10-alpine`, _(Dockerfile)_](https://github.com/FauzaanQureshi/fastapi-uvicorn-gunicorn-docker/blob/master/docker-images/python3.10-alpine.dockerfile)
 * [`python3.11`, `latest` _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-docker/blob/master/docker-images/python3.11.dockerfile)
 * [`python3.10`, _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-docker/blob/master/docker-images/python3.10.dockerfile)
 * [`python3.9`, _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-docker/blob/master/docker-images/python3.9.dockerfile)
